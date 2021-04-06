@@ -1,14 +1,18 @@
-body {
+body { color:aliceblue;
+    text-align: center;
+}
+.certone { color: black;}
+
+.textone {
+    color: black;
     text-align: center;
 }
 
-h1 {
-    text-align: center;
-}
 
-
-img{
+.imgone{
     height: 200;
     width: 200;
     border-radius: 50%;
+    margin-top: 5%;
 }
+
